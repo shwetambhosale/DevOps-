@@ -53,12 +53,13 @@ To run this project, you need the following dependencies:
 Install the dependencies using:
 ```bash
 pip install tensorflow numpy pandas scikit-learn matplotlib streamlit
+
 ## Installation
 To set up the project locally, follow these steps:
 1.Clone the repository:
 2.Install the required packages mentioned in requirements.txt
 
-##Usage
+## Usage
 To run the Streamlit application, execute the following command in your terminal
 streamlit run app.py
 
