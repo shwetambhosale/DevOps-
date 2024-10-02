@@ -53,19 +53,24 @@ To run this project, you need the following dependencies:
 Install the dependencies using:
 ```bash
 pip install tensorflow numpy pandas scikit-learn matplotlib streamlit
+```
 
 ## Installation
 To set up the project locally, follow these steps:
-1.Clone the repository:
-2.Install the required packages mentioned in requirements.txt
+1. **Clone the repository**:
+2. **Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-To run the Streamlit application, execute the following command in your terminal
+To run the Streamlit application, execute the following command in your terminal:
+```bash
 streamlit run app.py
+```
 
-Results
+## Results
 The application displays predictions based on user input and provides visualizations that help analyze the factors contributing to customer churn.
 
 ## License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
-
